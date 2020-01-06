@@ -1,19 +1,52 @@
 {
-  "posts": [
+  "Employee": [
     {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
+      "id": 2,
+      "firstName": "suresh",
+      "lastName": "kumar",
+      "code": "ck123",
+      "contactNumber": "9848022338",
+      "address": "Vizag"
+    },
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+      "id": 3,
+      "firstName": "sathish",
+      "lastName": "sir",
+      "code": "10005",
+      "contactNumber": "1234567895",
+      "address": "ameerpet"
+    },
+    {
+      "id": 4,
+      "firstName": "nagalakshmi",
+      "lastName": "madam",
+      "code": "4891",
+      "contactNumber": "48489489416",
+      "address": "455"
+    },
+    {
+      "id": 5,
+      "firstName": "raj ",
+      "lastName": "kumar",
+      "code": "9865j",
+      "contactNumber": "85275362",
+      "address": "drfgsbhnj"
+    },
+    {
+      "id": 6,
+      "firstName": "bcom",
+      "lastName": "physics",
+      "code": "752fg",
+      "contactNumber": "563",
+      "address": "wedfgh"
+    },
+    {
+      "id": 7,
+      "firstName": "arjunreddy",
+      "lastName": "bai",
+      "code": "21546",
+      "contactNumber": "78563",
+      "address": "sdfvbn"
+    } 
+     ]
 }
